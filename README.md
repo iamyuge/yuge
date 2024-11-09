@@ -1,0 +1,2 @@
+# yuge
+static Web Part
